@@ -1,0 +1,37 @@
+equipo_id,clave,descripcion,tipo,es_centro_costo,activo
+1,COMPRESOR,Compresor Ingersoll Rand XP375,compresor,False,True
+2,KODIAK,Grúa Kodiak (Hiab),grua,False,True
+3,R1,Retroexcavadora Case 580M,retroexcavadora,False,True
+4,R4,Retroexcavadora John Deere 310J,retroexcavadora,False,True
+5,Z2,Zanjadora Vermeer RTX1250,zanjadora,False,True
+6,Z3,Zanjadora Vermeer RTX1250,zanjadora,False,True
+7,F-350,Camión F-350,vehiculo,False,True
+8,BRAZO ART.,Brazo articulado / Grúa Hiab,grua,False,True
+9,ATTITUDE,Vehículo Attitude,vehiculo,False,True
+10,CH-3500,Chevrolet 3500,vehiculo,False,True
+11,DRILL,Perforadora Drill,perforadora,False,True
+12,SAVEIRO 01,Saveiro 01,vehiculo,False,True
+13,SAVEIRO 02,Saveiro 02,vehiculo,False,True
+14,NISSAN 69,Nissan 69,vehiculo,False,True
+15,NISSAN 70,Nissan 70,vehiculo,False,True
+16,VAN HIACE,Van Hiace,vehiculo,False,True
+17,GENERADOR,Generador,generador,False,True
+18,MARCH 02,March 02,vehiculo,False,True
+19,MOTOBOMBA,Motobomba,bomba,False,True
+20,GENERALES,Centro de costo general (no es equipo),centro_costo,True,True
+21,Z1,Zanjadora Z1 (dada de baja),zanjadora,False,False
+22,R2,Retroexcavadora R2 (dada de baja),retroexcavadora,False,False
+23,R3,Retroexcavadora R3 (dada de baja),retroexcavadora,False,False
+24,SILVERADO,Silverado (dada de baja),vehiculo,False,False
+25,FORD 2006,Ford 2006 (dado de baja),vehiculo,False,False
+26,FORD 2007,Ford 2007 (dado de baja),vehiculo,False,False
+27,RIO,Río (dado de baja),vehiculo,False,False
+28,TORNADO,Tornado (dado de baja),vehiculo,False,False
+29,MAZDA,"Mazda (abandonado, no operativo)",vehiculo,False,False
+30,SANTA FE,Santa Fe,vehiculo,False,True
+31,CAMPER CHICO,Camper chico,vehiculo,False,True
+32,CAMPER GRANDE,Camper grande,vehiculo,False,True
+33,HONDA VTX,Motocicleta Honda VTX,vehiculo,False,True
+34,SPORTAGE,Sportage,vehiculo,False,True
+35,HERRAMIENTA MENOR,Herramienta menor (bolsa 2024),herramienta,False,False
+36,MARCH 01,March 01,vehiculo,False,True

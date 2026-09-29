@@ -1,0 +1,27 @@
+categoria_id,nombre,tipo,grupo
+1,BONOS,EGRESO,nomina
+2,COMBUSTIBLE,EGRESO,operativo
+3,COMIDAS,EGRESO,operativo
+4,CONSUMIBLES,EGRESO,operativo
+5,DEUDA (por confirmar),EGRESO,por_confirmar
+6,EPP,EGRESO,operativo
+7,GASTO AJENO (por reclasificar),EGRESO,por_reclasificar
+8,GPS,EGRESO,operativo
+9,HERRAMIENTA,EGRESO,operativo
+10,LICENCIAS,EGRESO,operativo
+11,LLANTAS,EGRESO,operativo
+12,MANGUERAS,EGRESO,operativo
+13,MANO DE OBRA,EGRESO,operativo
+14,PAPELERIA,EGRESO,operativo
+15,PASAJE,EGRESO,operativo
+16,PLACAS,EGRESO,operativo
+17,PRESTAMOS A TERCEROS,EGRESO,no_operativo
+18,REEMBOLSOS (por confirmar),EGRESO,por_confirmar
+19,REFACCIONES,EGRESO,operativo
+20,RENTA DE EQUIPO,INGRESO,operativo
+21,SERVICIO INTERNO (sin costo),EGRESO,informativo
+22,SERVICIOS A TERCEROS,INGRESO,operativo
+23,SUELDOS,EGRESO,nomina
+24,TRAMITES,EGRESO,operativo
+25,TRASLADOS,EGRESO,operativo
+26,VENTA DE ACTIVOS,INGRESO,no_operativo
